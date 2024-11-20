@@ -12,7 +12,6 @@ Computer with Vivado or any Verilog simulation software.
 Verilog HDL compiler.
 
 ### Verilog Code
-
 ~~~
 module ripple_carry_adder_4bit (
 input [3:0] A,      
